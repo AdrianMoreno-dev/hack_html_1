@@ -1,4 +1,3 @@
-PULL_REQUEST_TEMPLATE
 # Tecnología
 - [ ] HTML
 - [ ] CSS3

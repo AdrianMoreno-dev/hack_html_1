@@ -1,0 +1,51 @@
+:root {
+    --main-bg-azul:#93B5C9;
+    --main-bg-red:#AB2849
+
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: none;
+    }
+
+.medidas{
+        height: 300px;
+        margin-top: 30px;
+        margin-left: 30em;
+    }
+
+.caja1{
+    background-color: var(--main-bg-azul);
+    height: 300px;
+}
+
+.caja2{
+    background-color: var(--main-bg-red);
+    height: 500px;
+}
+.caja3{
+    background-color: var(--main-bg-red);
+   }
+.caja4{
+    background-color: var(--main-bg-red);
+    
+}
+.caja5{
+    background-color: var(--main-bg-red);
+    
+}
+.caja6{
+    background-color: var(--main-bg-red);
+   
+}
+
+.caja7{
+    background-color: var(--main-bg-red);
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-bottom: 0%;
+}
